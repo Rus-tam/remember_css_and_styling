@@ -26,3 +26,13 @@ body {
     /*letter-spacing: 10px;*/
     /*word-spacing: 10px;*/
 }
+
+/*Box Model*/
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+
+.social {
+
+}
