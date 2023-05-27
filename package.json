@@ -1,0 +1,19 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass ./natours_project/sass/main.scss ./natours_project/css/style.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "husky": "^8.0.3",
+    "jest": "^29.5.0",
+    "node-sass": "^9.0.0",
+    "prettier": "^2.8.8"
+  }
+}
